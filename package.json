@@ -1,0 +1,27 @@
+{
+  "name": "nson",
+  "version": "1.0.0",
+  "description": "NSON – Nested Serialization Object Notation: A lightweight, modular, and native JSON API for Java.",
+  "main": "src/NSON.java",
+  "scripts": {
+    "build": "echo \"Use javac to compile sources into ./bin\"",
+    "test": "echo \"Run Java examples in ./example directory manually\"",
+    "docs": "echo \"Generate JavaDocs if needed\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karnikhil90/NSON.git"
+  },
+  "keywords": [
+    "json",
+    "java",
+    "serialization",
+    "parser",
+    "nson",
+    "custom-json",
+    "native-java",
+    "json-api"
+  ],
+  "author": "Nikhil Karmakar",
+  "license": "MIT"
+}
