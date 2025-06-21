@@ -19,22 +19,20 @@ This library is lightweight, modular, and designed for developers who want contr
   💻 **Nikhil’s Serialization Object Notation** – a personal touch from the creator, Nikhil 😄  
 
 You get a clean, extensible, native Java JSON tool — handcrafted.
-
 ---
-
-## 📸 Screenshots
+<!-- ## 📸 Screenshots -->
 
 > Sample UIs shown below are from tools that use this JSON API
 
-# Screen Short
-<p align="center">
+<!-- # Screen Short -->
+<!-- <p align="center">
   <img src="util/HomePage.png" width="30%" />
   <img src="util/SettingPage.png" width="30%" />
   <img src="util/loginPage.png" width="30%" />
   <img src="util/CreatingAccount.png" width="30%" />
   <img src="util/login_Success.png" width="30%" />
   <img src="util/asking_logout.png" width="30%" />
-</p>
+</p> -->
 <br><br>
 
 ---
@@ -102,7 +100,7 @@ NSON/
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **Apache License**.
 See the [LICENSE](LICENSE) file for full details.
 
 ---
